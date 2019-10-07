@@ -19,7 +19,7 @@
         <!-- EMDK Lib (required) -->
         <uses-library android:name="com.symbol.emdk" android:required="true" />
 
-        <activity android:name=".MainActivity" android:screenOrientation="landscape">
+        <activity android:name=".MainActivity" android:screenOrientation="sensorLandscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
