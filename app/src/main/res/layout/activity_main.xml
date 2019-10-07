@@ -31,15 +31,9 @@
         android:textSize="14pt"
         android:text="Current Progress: 0 / 10"/>
 
-      <ScrollView
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content">
-
-        <include
-            android:id="@+id/barcode_table"
-            layout="@layout/layout_barcode_table" />
-
-      </ScrollView>
+      <include
+          android:id="@+id/barcode_table"
+          layout="@layout/layout_barcode_table" />
 
     </LinearLayout>
 
