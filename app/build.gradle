@@ -7,8 +7,8 @@ android {
         applicationId "com.zebra.jamesswinton.warehouseexperiencedemowearable"
         minSdkVersion 23
         targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "2.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
